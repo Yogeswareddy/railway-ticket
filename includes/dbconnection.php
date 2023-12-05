@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','railway-project-server.mysql.database.azure.com');
-define('DB_USER','aqgcmbcsrl');
-define('DB_PASS','475MKAD8QY4I6456$');
+define('DB_HOST','yogi-mysql.mysql.database.azure.com');
+define('DB_USER','rootuser');
+define('DB_PASS','Yogi1234567890');
 define('DB_NAME','rpmsdb');
 // Establish database connection.
 try
